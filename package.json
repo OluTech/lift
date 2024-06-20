@@ -1,6 +1,7 @@
 {
   "name": "serverless-lift",
   "license": "MIT",
+  "version": "1.28.2",
   "homepage": "https://github.com/getlift/lift",
   "repository": "https://github.com/getlift/lift",
   "description": "Lift",
